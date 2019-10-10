@@ -1,4 +1,4 @@
-# cicd-pipeline-train-schedule-jenkins test bla bla.3
+# cicd-pipeline-train-schedule-jenkins. C'est une epreuve.
 
 This is a simple train schedule app written using nodejs.
 
